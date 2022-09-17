@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "MSL0104RGB")(type "Legacy")(uri "${KIPRJMOD}/MSL0104RGB.pretty/MSL0104RGB.lib")(options "")(descr ""))
-  (lib (name "030-rescue")(type "Legacy")(uri "${KIPRJMOD}/DS4 J30 usb-c connector-rescue.lib")(options "")(descr ""))
-)
