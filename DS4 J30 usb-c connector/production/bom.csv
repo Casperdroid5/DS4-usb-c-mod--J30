@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+,,1,,
+J1,503480-1200,1,030,
+LED1,FM-3510RGBA-SG,1,LED_RAGB,
+"R1, R2",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,5.1k,
+USB1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0,
